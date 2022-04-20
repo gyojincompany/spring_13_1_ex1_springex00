@@ -87,4 +87,10 @@ public class HomeController {
 		return "board/join";
 	}
 	
+	@RequestMapping(value="board/login")
+	public String login() {
+		
+		return "board/login";
+	}
+	
 }

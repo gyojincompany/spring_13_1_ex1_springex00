@@ -1,8 +1,5 @@
 package com.javagyojin.ex_13_1;
 
-import java.io.UnsupportedEncodingException;
-import java.net.URLEncoder;
-
 public class Member {
 	
 	private String id;
